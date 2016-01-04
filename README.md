@@ -1,11 +1,11 @@
-##Git training
+###Git training
 
 
 Repository for the Meetup "Open source contribution training: Git" on 07/01/2016.
 See on [Meetup.com](http://www.meetup.com/PyLadiesLondon/events/227540804/)
 
 
-###Event description
+####Event description
 
 There are several plans for us to contribute to open source projects at meetup events in the future.
 
@@ -24,7 +24,7 @@ Before the meetup: [Install Git](https://git-scm.com/book/en/v2/Getting-Started-
 Note: you can customise your Git environment. See [here](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup).
 
 
-###About version control
+####About version control
 
 Version control is a system to help keep track of file changes over time.
 It can be use for code or any other kind of file (text, images...).
@@ -37,9 +37,8 @@ You would typically have a local version of your work on your computer and a rem
 Read more [here](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control).
 
 
-###About Git
 
-#### Brief history
+#### Brief history of Git
 
 Git was created by the Linux development community in 2005 as a version control tool for the Linux kernel.
 
@@ -52,7 +51,7 @@ Here are the main property they develop Git on:
 * Able to handle large projects like the Linux kernel efficiently (speed and data size)
 
 
-#### Git basics
+#### About Git
 
 Git works by taking a snapshot of your files over time and stores a reference to be able to go back to each snapshot if needed.
 
@@ -65,7 +64,7 @@ Git has three main states for your file to be in:
 * committed: the snapshot is saved and referenced.
 
 
-__Basic Git workflow:__
+Here what a basic Git workflow looks like:
 
 1. You modify files in your working directory.
 
@@ -74,7 +73,7 @@ __Basic Git workflow:__
 3. You do a commit, which takes the files as they are in the staging area and stores that snapshot permanently to your Git directory.
 
 
-#### Using Git
+#### Basic use of Git
 
 There are several graphic user interfaces (GUIs) available for Git but it is highly recommanded to learn the basic commands to use on a terminal.
 
