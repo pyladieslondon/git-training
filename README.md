@@ -21,7 +21,11 @@ We'll do the [Git mission](https://openhatch.org/missions/git) together.
 
 Before the meetup: [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if you don't already have it installed on your laptop.
 
-Note: you can customise your Git environment. See [here](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup).
+
+####Git tutorials
+* For beginners to Git: [Try Git](https://try.github.io/levels/1/challenges/1) is a short intereactive tutorial made by Github.
+
+* For junior-ish Git users: [Using Git](https://openhatch.org/missions/git) tutorial for new contributors to open source by OpenHatch.
 
 
 ####About version control
