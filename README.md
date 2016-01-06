@@ -41,7 +41,7 @@ Before the meetup: [Install Git](https://git-scm.com/book/en/v2/Getting-Started-
 Version control is a system to help keep track of file changes over time.
 It can be use for code or any other kind of file (text, images...).
 
-Using version control enables you to go back to previous version of your work, to compare the changes and it can serve as backup.
+Using version control enables you to go back to a previous version of your work, to compare the changes and it can serve as backup.
 
 You would typically have a local version of your work on your computer and a remote repository on a server (a widely used tools for remote repositories is [Github](http://github.com/)).
 
