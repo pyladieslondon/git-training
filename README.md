@@ -1,4 +1,4 @@
-###Git training
+##Git training
 
 
 Repository for the Meetup "Open source contribution training: Git" on 07/01/2016.
@@ -26,6 +26,14 @@ Before the meetup: [Install Git](https://git-scm.com/book/en/v2/Getting-Started-
 * For beginners to Git: [Try Git](https://try.github.io/levels/1/challenges/1) is a short intereactive tutorial made by Github.
 
 * For junior-ish Git users: [Using Git](https://openhatch.org/missions/git) tutorial for new contributors to open source by OpenHatch.
+
+
+####Command-line tutorials
+* Very basic commands: [Using the command line shell](https://openhatch.org/missions/shell/about)
+
+* Basic commands + basic Vim: [Intro to bash](http://programminghistorian.org/lessons/intro-to-bash)
+
+* Basics + more advanced stuffs: [The command line crash course](http://programminghistorian.org/lessons/intro-to-bash)
 
 
 ####About version control
