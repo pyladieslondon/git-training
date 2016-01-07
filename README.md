@@ -28,6 +28,10 @@ Before the meetup: [Install Git](https://git-scm.com/book/en/v2/Getting-Started-
 * For junior-ish Git users: [Using Git](https://openhatch.org/missions/git) tutorial for new contributors to open source by OpenHatch.
 
 
+####Git exercise
+Look for the file `exercise.md` in this Github repository
+
+
 ####Command-line tutorials
 * Very basic commands: [Using the command line shell](https://openhatch.org/missions/shell/about)
 
