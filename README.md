@@ -36,6 +36,10 @@ Before the meetup: [Install Git](https://git-scm.com/book/en/v2/Getting-Started-
 * Basics + more advanced stuffs: [The command line crash course](http://programminghistorian.org/lessons/intro-to-bash)
 
 
+## Basic intro to version control with Git
+
+See lightning talk slides [here](http://nbviewer.ipython.org/github/pyladieslondon/git-training/blob/master/PyLadiesLondon-Git.ipynb)
+
 ####About version control
 
 Version control is a system to help keep track of file changes over time.
