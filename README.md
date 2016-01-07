@@ -1,4 +1,4 @@
-##Git training
+##Git training meetup
 
 
 Repository for the Meetup "Open source contribution training: Git" on 07/01/2016.
@@ -35,6 +35,7 @@ Before the meetup: [Install Git](https://git-scm.com/book/en/v2/Getting-Started-
 
 * Basics + more advanced stuffs: [The command line crash course](http://programminghistorian.org/lessons/intro-to-bash)
 
+_____
 
 ## Basic intro to version control with Git
 
