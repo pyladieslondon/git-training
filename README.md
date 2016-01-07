@@ -125,3 +125,8 @@ Note: to start using an existing repository you clone it (usually from a Github 
 
 
 For more details: check the extensive [documentation](https://git-scm.com/doc).
+
+Extra commands
+
+git ls tree
+Shows a tree object, including the mode and the name of each item and the SHA-1 value of the blob or the tree that it points to. Example: git ls-tree master^{tree} 100644 blob e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 README
